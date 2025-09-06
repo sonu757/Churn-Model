@@ -1,0 +1,12 @@
+ipykernel
+scikit-learn
+pandas
+numpy
+matplotlib
+imblearn
+seaborn
+openpyxl
+nltk
+tensorflow==2.19.0
+tensorboard
+streamlit
